@@ -4,6 +4,11 @@
       "STAT_TO_TRAIN": "The stat you want to trai (e.g. opsec)",
       "ATTN_BANK": "The amount of attention you want to always have available, unspent (e.g. 60)"
     },
+    "buildpacks": [
+      {
+        "url": "heroku/php"
+      }
+    ],
     "addons": [
       "papertrail",
       "scheduler"
