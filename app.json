@@ -13,5 +13,5 @@
       "papertrail",
       "scheduler"
     ],
-    "success_url": "/setup.php"
+    "success_url": "/index.php"
   }
