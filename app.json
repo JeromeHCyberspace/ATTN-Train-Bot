@@ -1,7 +1,7 @@
 {
     "env": {
       "API_TOKEN": "Your api token from the settings page on hackcyber.space",
-      "STAT_TO_TRAIN": "The stat you want to trai (e.g. opsec)",
+      "STAT_TO_TRAIN": "The stat you want to train (e.g. opsec)",
       "ATTN_BANK": "The amount of attention you want to always have available, unspent (e.g. 60)"
     },
     "buildpacks": [
